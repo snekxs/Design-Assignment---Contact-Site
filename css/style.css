@@ -308,9 +308,9 @@ button:focus {
   top: -70px;
   left: 0;
   right: 0;
-  background-image: -moz-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -webkit-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -ms-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
+  background-image: -moz-linear-gradient(0deg, #4ac29a 0%, #7249fb 100%);
+  background-image: -webkit-linear-gradient(0deg, #4ac29a 0%, #7249fb 100%);
+  background-image: -ms-linear-gradient(0deg, #4ac29a 0%, #7249fb 100%);
   -webkit-transform: translateY(70px);
   -ms-transform: translateY(70px);
   transform: translateY(70px);
@@ -370,7 +370,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  background: url(../blackx_thumbnail.jpg) no-repeat scroll center center;
   background-size: cover;
 }
 
@@ -1184,9 +1184,9 @@ button:focus {
 }
 
 .blog_right_sidebar .tag_cloud_widget ul li a:hover {
-  background-image: -moz-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -webkit-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
-  background-image: -ms-linear-gradient(0deg, rgba(188, 43, 255, 0.8) 0%, rgba(114, 73, 251, 0.8) 100%);
+  background-image: -moz-linear-gradient(0deg, #4ac29a 0%, #A8EB12 100%);
+  background-image: -webkit-linear-gradient(0deg, #4ac29a 0%, #A8EB12 100%);
+  background-image: -ms-linear-gradient(0deg, #4ac29a 0%, #A8EB12 100%);
   color: #fff;
 }
 
@@ -3952,9 +3952,9 @@ h6 {
 }
 
 .single-footer-widget .sub-btn {
-  background-image: -moz-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -webkit-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
-  background-image: -ms-linear-gradient(0deg, #bc2bff 0%, #7249fb 100%);
+  background-image: -moz-linear-gradient(0deg, #bc2bff 0%, #A8EB12 100%);
+  background-image: -webkit-linear-gradient(0deg, #bc2bff 0%, #A8EB12 100%);
+  background-image: -ms-linear-gradient(0deg, #bc2bff 0%, #A8EB12 100%);
   color: #fff;
   font-weight: 500;
   line-height: 38px;
