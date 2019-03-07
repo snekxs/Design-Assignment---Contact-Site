@@ -201,7 +201,7 @@
 .lnr-smartphone:before {
 	content: "\e83a";
 }
-.lnr-tablet:before {
+.lnr-tablet:before {	
 	content: "\e83b";
 }
 .lnr-laptop:before {
